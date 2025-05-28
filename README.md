@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Mohana Rupa Kalluri
 
-<!--
-**Mohana2025/Mohana2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Computer Science | University of Central Missouri  
+🌐 Explorer | 💡 Curious Learner | 👩‍💻 Aspiring Technologist  
+📍 Open to roles in AI, Cybersecurity, Web Development, Data Analysis, and more!
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages: Python, HTML, CSS, SQL   
+Databases: MongoDB, MySQL  
+Tools: GitHub, Excel, Replit  
+Platforms: MongoDB Atlas, GitHub Pages, Replit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 Certifications & Achievements
+- MTA: Introduction to Python Programming (Microsoft)
+- SQL Basic Certificate (HackerRank)
+- TCS iON – Soft Skills & Presentation Skills
+- EFSET English Certificate (C1 Advanced – 63/100)
+- Accenture Virtual Experience Program
+
+📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mohana-rupa-kalluri/)
+- [GitHub](https://github.com/Mohana777)
+- Email: kmohanarupa78@gmail.com
+
+> See below for cool Projects! Stay tuned for more!
+
+> 💡 "I love learning, building, and exploring the intersection of technology, intelligence, and security."

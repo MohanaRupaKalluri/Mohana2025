@@ -24,8 +24,8 @@ Agile/Scrum, Generative AI Integration (OpenAI API, Azure OpenAI Service)
 - Accenture Virtual Experience Program
 
 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mohana-rupa-kalluri/)
-- [GitHub](https://github.com/Mohana777)
+- [LinkedIn](http://www.linkedin.com/in/mohana-rupa)
+- [GitHub](https://github.com/MohanaRupaKalluri)
 - Email: mohanarupakalluri1@gmail.com
 
 > See below for cool Projects! Stay tuned for more!

@@ -2,13 +2,18 @@
 
 🎓 Master's in Computer Science | University of Central Missouri  
 🌐 Explorer | 💡 Curious Learner | 👩‍💻 Aspiring Technologist  
-📍 Open to roles in AI, Cybersecurity, Web Development, Data Analysis, and more!
+📍 Open to roles in dot net developer, Web Development, Data Analysis, and more!
 
 🛠️ Tech Stack
-Languages: Python, HTML, CSS, SQL   
-Databases: MongoDB, MySQL  
-Tools: GitHub, Excel, Replit  
-Platforms: MongoDB Atlas, GitHub Pages, Replit
+Languages: C#, JavaScript, TypeScript, SQL, HTML5, CSS3 
+Frameworks: .NET Core 6/7/8, ASP.NET MVC 5, Web API, Entity Framework Core, LINQ 
+Frontend: Angular, React, Redux, Bootstrap, jQuery 
+Databases: SQL Server, PostgreSQL, MongoDB 
+Cloud & DevOps: Microsoft Azure (App Services, Azure Functions, Azure DevOps, Azure OpenAI, Azure 
+Cognitive Services, Blob Storage), AWS (basic), Docker, Kubernetes 
+Tools & Version Control: Visual Studio, VS Code, Git, GitHub, TFS, JIRA, Postman, Replit 
+Other: RESTful API Development, Microservices, Identity Server, OAuth2, JWT, Unit Testing (xUnit, NUnit), 
+Agile/Scrum, Generative AI Integration (OpenAI API, Azure OpenAI Service)
 
 
 📚 Certifications & Achievements
@@ -21,7 +26,7 @@ Platforms: MongoDB Atlas, GitHub Pages, Replit
 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohana-rupa-kalluri/)
 - [GitHub](https://github.com/Mohana777)
-- Email: kmohanarupa78@gmail.com
+- Email: mohanarupakalluri1@gmail.com
 
 > See below for cool Projects! Stay tuned for more!
 

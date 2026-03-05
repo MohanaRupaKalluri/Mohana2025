@@ -1,33 +1,22 @@
-👋 Hi, I'm Mohana Rupa Kalluri
+## Hi, I'm Mohana Rupa Kalluri 👋
 
-🎓 Master's in Computer Science | University of Central Missouri  
-🌐 Explorer | 💡 Curious Learner | 👩‍💻 Aspiring Technologist  
-📍 Open to roles in dot net developer, Web Development, Data Analysis, and more!
+CS Master's graduate specializing in **workflow automation**, **process design**, and **AI/NLP applications**.
 
-🛠️ Tech Stack
-Languages: C#, JavaScript, TypeScript, SQL, HTML5, CSS3 
-Frameworks: .NET Core 6/7/8, ASP.NET MVC 5, Web API, Entity Framework Core, LINQ 
-Frontend: Angular, React, Redux, Bootstrap, jQuery 
-Databases: SQL Server, PostgreSQL, MongoDB 
-Cloud & DevOps: Microsoft Azure (App Services, Azure Functions, Azure DevOps, Azure OpenAI, Azure 
-Cognitive Services, Blob Storage), AWS (basic), Docker, Kubernetes 
-Tools & Version Control: Visual Studio, VS Code, Git, GitHub, TFS, JIRA, Postman, Replit 
-Other: RESTful API Development, Microservices, Identity Server, OAuth2, JWT, Unit Testing (xUnit, NUnit), 
-Agile/Scrum, Generative AI Integration (OpenAI API, Azure OpenAI Service)
+### 🔧 What I build
+- Automation tools that eliminate manual, repetitive processes
+- NLP-powered systems for intelligent document analysis
+- End-to-end workflow platforms with data-driven dashboards
 
+### 🛠 Tech Stack
+`Python` `Flask` `spaCy` `NLP` `MongoDB` `HTML/CSS` `C#` `AWS` `Azure`
 
-📚 Certifications & Achievements
-- MTA: Introduction to Python Programming (Microsoft)
-- SQL Basic Certificate (HackerRank)
-- TCS iON – Soft Skills & Presentation Skills
-- EFSET English Certificate (C1 Advanced – 63/100)
-- Accenture Virtual Experience Program
+### 📌 Featured Projects
+- 🔴 **[IP Workflow Pain Point Mapper](https://github.com/MohanaRupaKalluri)** — Contact center workflow analysis tool with NLP auto-tagging *(In Development)*
+- 🤖 **[Resume Screening Bot](https://github.com/MohanaRupaKalluri/Resume_Screening_Bot)** — NLP-driven candidate matching system
+- 💼 **[Employment Recruitment System](https://github.com/MohanaRupaKalluri/EmpRecProcess)** — Full-stack hiring workflow platform
 
-📫 Connect with Me
-- [LinkedIn](http://www.linkedin.com/in/mohana-rupa)
-- [GitHub](https://github.com/MohanaRupaKalluri)
-- Email: mohanarupakalluri1@gmail.com
+### 🌐 Portfolio
+[mohana-rupa-portfolio.netlify.app](https://mohana-rupa-portfolio.netlify.app)
 
-> See below for cool Projects! Stay tuned for more!
-
-> 💡 "I love learning, building, and exploring the intersection of technology, intelligence, and security."
+### 📬 Contact
+[kmohanarupakalluri1@gmail.com](mailto:kmohanarupakalluri1@gmail.com)

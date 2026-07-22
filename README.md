@@ -16,7 +16,7 @@ CS Master's graduate specializing in **workflow automation**, **process design**
 - 💼 **[Employment Recruitment System](https://github.com/MohanaRupaKalluri/EmpRecProcess)** — Full-stack hiring workflow platform
 
 ### 🌐 Portfolio
-[mohana-rupa-portfolio.netlify.app](https://mohana-rupa-portfolio.netlify.app)
+[mohana-rupa-portfolio.netlify.app](Portfolio: https://meetmohana.lovable.app )
 
 ### 📬 Contact
 [kmohanarupakalluri1@gmail.com](mailto:kmohanarupakalluri1@gmail.com)
